@@ -1,0 +1,9 @@
+{
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.colorTheme": "One Dark Theme",
+  "window.density.editorTabHeight": "compact",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns":true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5",
+    "lib": ["es2019", "DOM"],
+    "noImplicitAny": false,
+    "downlevelIteration": true,
+    "alwaysStrict": true
+  },
+  "compileOnSave": true
+}
